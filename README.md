@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DianaGarcesPortilla
 - 👀 I’m interested in the data analyst, machine learning and data visualization.
-- 🌱 I’m currently learning art history 
+- 🌱 I’m currently Cloud computing services Azure 
 - 📫 How to reach me dianagarces82@gmail.com
 
 <!---
