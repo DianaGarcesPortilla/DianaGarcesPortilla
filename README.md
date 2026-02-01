@@ -14,7 +14,7 @@ and applied machine learning using modern data platforms.
 
 📍 Colombia  
 🔗 LinkedIn: [https://www.linkedin.com/in/diana-garces-portilla/]  
-📂 Portfolio: [link a tu repositorio principal o lista de proyectos]
+📂 Portfolio: [https://github.com/DianaGarcesPortilla?tab=repositories]
 
 
 
