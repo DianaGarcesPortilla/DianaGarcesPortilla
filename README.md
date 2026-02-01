@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @DianaGarcesPortilla
-- 👀 I’m interested in the data analyst, machine learning and data visualization.
-- 🌱 I’m currently learning Cloud computing services Azure 
-- 📫 How to reach me dianagarces82@gmail.com
+## 👋 Hi, I'm Diana 
 
-<!---
-DianaGarcesPortilla/DianaGarcesPortilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior Data Analyst | Business Intelligence | Analytics  
+
+Industrial Engineer | MSc in Data Science | Statistics Specialist  
+
+I work at the intersection of data, business, and decision-making.
+My background is in analytics consulting and services for companies and the public sector,
+with experience transforming data into actionable insights.
+
+🔹 Business Intelligence & Analytics  
+🔹 Data analysis & visualization  
+🔹 ETL pipelines & cloud analytics  
+🔹 Applied machine learning (academic & personal projects)
+
+📍 Colombia  
+🔗 LinkedIn: [https://www.linkedin.com/in/diana-garces-portilla/]  
