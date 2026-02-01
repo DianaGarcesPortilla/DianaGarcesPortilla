@@ -1,16 +1,12 @@
 ## 👋 Hi, I'm Diana 
 
-Senior Data Analyst | Business Intelligence | Analytics  
+Senior Data Analyst | Business Intelligence | Analítica
+Ingeniera Industrial | Magíster en Ciencia de Datos | Especialista en Estadística
 
-Industrial Engineer | MSc in Data Science | Statistics Specialist  
+Trabajo en la intersección entre datos, negocio y toma de decisiones.
+Mi experiencia se ha desarrollado en consultoría y servicios de analítica para empresas, transformando datos en insights accionables para distintos tipos de stakeholders.
 
-I work at the intersection of data, business, and decision-making.
-My background is in analytics consulting and services for companies,
-with experience transforming data into actionable insights.
-
-In recent years, I have strengthened my profile in Business Intelligence and Data Analytics
-through academic and personal projects focused on dashboards, ETL pipelines, cloud analytics,
-and applied machine learning using modern data platforms.
+En los últimos años he fortalecido mi perfil en Business Intelligence y Analítica de Datos a través de proyectos académicos y personales enfocados en dashboards, pipelines ETL, analítica en la nube y machine learning aplicado, utilizando plataformas modernas de datos.
 
 📍 Colombia  
 🔗 LinkedIn: [https://www.linkedin.com/in/diana-garces-portilla/]  
