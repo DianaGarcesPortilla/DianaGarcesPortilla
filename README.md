@@ -16,5 +16,12 @@ and applied machine learning using modern data platforms.
 🔗 LinkedIn: [https://www.linkedin.com/in/diana-garces-portilla/]  
 📂 Portfolio: [https://github.com/DianaGarcesPortilla?tab=repositories]
 
+## 🧰 Tech Stack
+
+- **Analytics & BI:** Power BI, Flexdashboard (R)
+- **Data Analysis:** Python, R
+- **Data Engineering:** SQL, ETL, PySpark, Databricks
+- **Cloud:** Microsoft Azure (Blob Storage, Databricks, Synapse), MLflow
+
 
 
