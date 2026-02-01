@@ -18,8 +18,8 @@ and applied machine learning using modern data platforms.
 
 ## 🧰 Tech Stack
 
-- **Analytics & BI:** Power BI, Flexdashboard (R)
 - **Data Analysis:** Python, R
+- **Analytics & BI:** Power BI, Flexdashboard (R)
 - **Data Engineering:** SQL, ETL, PySpark, Databricks
 - **Cloud:** Microsoft Azure (Blob Storage, Databricks, Synapse), MLflow
 
