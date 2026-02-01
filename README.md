@@ -10,7 +10,7 @@ with experience transforming data into actionable insights.
 
 🔹 Business Intelligence & Analytics  
 🔹 Data analysis & visualization  
-🔹 ETL pipelines & cloud analytics  
+🔹 ETL pipelines & cloud analytics (academic & personal projects)
 🔹 Applied machine learning (academic & personal projects)
 
 📍 Colombia  
