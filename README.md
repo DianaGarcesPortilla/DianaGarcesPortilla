@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Diana 
 
 Senior Data Analyst | Business Intelligence | Analítica
+
 Ingeniera Industrial | Magíster en Ciencia de Datos | Especialista en Estadística
 
 Trabajo en la intersección entre datos, negocio y toma de decisiones.
