@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Diana 
 
-Senior Data Analyst | Business Intelligence | Analítica
+Senior Data Analyst | Inteligencia de Negocio | Analítica
 
 Ingeniera Industrial | Magíster en Ciencia de Datos | Especialista en Estadística
 
